@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/Mayuri-pawar21/30-days-of-verilog/blob/main/banner.png" alt="30 Days of Verilog Banner" width="100%">
 </p>
+
 # 🚀 30 Days of Verilog
 
 Welcome to the **30 Days of Verilog** challenge — a structured and hands-on journey into the world of **digital design and Verilog HDL**.
